@@ -38,7 +38,7 @@ class noGuessGame {
             System.out.print("Enter the guessed number: ");
             guessNumber = scan.nextInt();
         }
-
+        scan.close();
         //If Won the Game:
         if (randomNumber == guessNumber){
                 System.out.println();

@@ -9,3 +9,8 @@
 ## Day 2
 - Code for "Dice Roller - Game :)" 
 - Language: Java, C, C++, Python
+
+## Day 3
+- Initialized Code for "Railway Reservation System"
+- Language : Python
+- This will be Continued!

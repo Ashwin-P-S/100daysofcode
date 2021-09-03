@@ -1,0 +1,5 @@
+10001	Telegram	Robot	67	M	12/12/2021	
+10001	Whatsapp	Robot	1	M	12/12/2021	
+10002	Unique	Robot	1	M	13/8/2021	
+10002	Lifetime	Robot	100	M	13/8/2021	
+10002	Twitter	Robot	65	M	1/1/2020	

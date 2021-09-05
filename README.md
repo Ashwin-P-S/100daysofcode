@@ -22,3 +22,9 @@
 
 ## Day 5
 - Contact App using Python
+
+## Day 6
+- Temperature Conversion ( Celcius/ Fahrenheit/ Kelvin)
+- Language: C, C++, Java, Python3
+- Same Logic in Different Programming Languages!
+- Little Bit Consumed more time in Java :)

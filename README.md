@@ -28,3 +28,8 @@
 - Language: C, C++, Java, Python3
 - Same Logic in Different Programming Languages!
 - Little Bit Consumed more time in Java :)
+## Day 7
+- Learned: Introduction of Python Django
+- Why Django?
+- Django Installation Process
+- Django Components

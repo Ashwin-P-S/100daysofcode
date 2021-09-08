@@ -33,3 +33,12 @@
 - Why Django?
 - Django Installation Process
 - Django Components
+## Day 8
+- Python Django FrameWork!
+- Created a Pollster Project
+- Inside Project, Build Polls app using Django
+- Server runned on localhost :)
+## Day 9
+- ATM Machine
+- Please read the Problem Statement.md before jumping into code!
+- Languages: C, C++, Java, Python

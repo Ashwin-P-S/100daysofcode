@@ -40,5 +40,9 @@
 - Server runned on localhost :)
 ## Day 9
 - ATM Machine
-- Please read the Problem Statement.md before jumping into code!
+- Please read the Problem Statement in README.md before jumping into the code!
+- Languages: C, C++, Java, Python
+## Day 10
+- Sum of First and Last Digit
+- Read the Problem Statement in README.md before jumping into the code!
 - Languages: C, C++, Java, Python

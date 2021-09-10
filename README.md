@@ -46,3 +46,7 @@
 - Sum of First and Last Digit
 - Read the Problem Statement in README.md before jumping into the code!
 - Languages: C, C++, Java, Python
+## Day 11
+- Occurrences of 4 in a given Integer
+- Read the Problem Statement, before jumping into the code!
+- Languages: C, C++, Java, Python

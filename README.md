@@ -28,25 +28,36 @@
 - Language: C, C++, Java, Python3
 - Same Logic in Different Programming Languages!
 - Little Bit Consumed more time in Java :)
+
 ## Day 7
 - Learned: Introduction of Python Django
 - Why Django?
 - Django Installation Process
 - Django Components
+
 ## Day 8
 - Python Django FrameWork!
 - Created a Pollster Project
 - Inside Project, Build Polls app using Django
 - Server runned on localhost :)
+
 ## Day 9
 - ATM Machine
 - Please read the Problem Statement in README.md before jumping into the code!
 - Languages: C, C++, Java, Python
+
 ## Day 10
 - Sum of First and Last Digit
 - Read the Problem Statement in README.md before jumping into the code!
 - Languages: C, C++, Java, Python
+
 ## Day 11
 - Occurrences of 4 in a given Integer
 - Read the Problem Statement, before jumping into the code!
 - Languages: C, C++, Java, Python
+
+## Day 12
+- Jumping into the Data Structures & Algorithms
+- Learned Singly Linked List in C Programming!
+- Insertion/Deletion/Traversal
+- Please Read the Description before Jumping into the Code!

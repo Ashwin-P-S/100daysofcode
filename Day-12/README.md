@@ -1,4 +1,6 @@
-# Singly Linked List
+# Data Structures and Algorithms
+
+## Singly Linked List
 
 - A Linked List is a linear data structure, in which the elements are not stored at contiguous memory locations.
 - The Elements are Linked using Pointers.

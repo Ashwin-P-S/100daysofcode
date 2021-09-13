@@ -61,3 +61,11 @@
 - Learned Singly Linked List in C Programming!
 - Insertion/Deletion/Traversal
 - Please Read the Description before Jumping into the Code!
+
+## Day 13
+- Reversing Singly Linked List
+- Done in C Programming Language
+
+## Day 14
+- DSA Concepts
+- Reversing of Singly Linked list Implemented in Cpp

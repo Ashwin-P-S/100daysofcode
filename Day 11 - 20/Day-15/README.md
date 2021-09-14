@@ -1,9 +1,7 @@
 # Linked List
 #### Data Structures & Algorithms
 
-## Doubly Linked List
-
-#### | Prev | Data | Next|
+## Doubly Linked List    #### | Prev | Data | Next |
 
 - Insertion ( Push, Append, Insert After, Insert Before )
 - Deletion ( Pop, Delete After, Delete Before, Delete Last )

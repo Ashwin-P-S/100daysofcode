@@ -69,3 +69,8 @@
 ## Day 14
 - DSA Concepts
 - Reversing of Singly Linked list Implemented in Cpp
+
+## Day 15
+- Linear DSA Concepts
+- Doubly Linked List in C Programming!
+- Insertion/ Deletion/ Traversal

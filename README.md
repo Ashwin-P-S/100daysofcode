@@ -74,3 +74,7 @@
 - Linear DSA Concepts
 - Doubly Linked List in C Programming!
 - Insertion/ Deletion/ Traversal
+
+## Day 16
+- Linear DSA Concepts
+- Reversing the Doubly Linked List

@@ -78,3 +78,8 @@
 ## Day 16
 - Linear DSA Concepts
 - Reversing the Doubly Linked List
+
+## Day 17
+- Linear DSA Concepts
+- Circular Linked List
+- An Easier Way to Traverse!

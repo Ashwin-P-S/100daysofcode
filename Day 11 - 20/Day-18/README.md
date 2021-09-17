@@ -11,7 +11,7 @@
     - last = head
     - cur = head->link
     - prev = head
-where head is pointing the head node
+, where head is pointing the head node
 
 - Move head node ahead
 

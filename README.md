@@ -83,3 +83,7 @@
 - Linear DSA Concepts
 - Circular Linked List
 - An Easier Way to Traverse!
+
+## Day 18
+- Linear DSA Concepts
+- Reversing Circular Linked List

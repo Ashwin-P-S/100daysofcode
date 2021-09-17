@@ -7,7 +7,12 @@
 
 ## Logic behind the Reversing
 
-- Initialize Three Pointer Variables [last = head, cur = head->link, prev = head], where head is pointing the head node
+- Initialize Three Pointer Variables
+    - last = head
+    - cur = head->link
+    - prev = head
+where head is pointing the head node
+
 - Move head node ahead
 
 - Move head node ahead [head = head -> link]

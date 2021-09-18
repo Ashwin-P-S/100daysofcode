@@ -87,3 +87,8 @@
 ## Day 18
 - Linear DSA Concepts
 - Reversing Circular Linked List
+
+## Day 19
+- The Lead Game
+- Please Read the Problem Statement before jumping into the Code!
+- CodeChef Problem

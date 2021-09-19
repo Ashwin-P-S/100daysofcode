@@ -92,3 +92,8 @@
 - The Lead Game
 - Please Read the Problem Statement before jumping into the Code!
 - CodeChef Problem
+
+## Day 20
+- Linked List
+- Printing the Linked List in Reverse using <strong>Recursion</strong>
+- C & C++

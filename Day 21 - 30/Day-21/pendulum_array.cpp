@@ -24,7 +24,7 @@ void pendulum_array(int array[], int size)
     // Create an Simple Pendulum Array !
     for(i = 0; i < size; i++) sp[i] = 0;
 
-    // Let's Sort the Arrat
+    // Let's Sort the Array
     for(i = 0; i < size; i++)
     {
         for(j = i + 1; j < size; j++)

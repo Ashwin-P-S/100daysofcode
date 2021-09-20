@@ -47,6 +47,7 @@ class pendulumArray {
             sp[mid - i] = array[j++];
         }
 
+        // Corrections if Size of the Array is Even
         if(size % 2 == 0) sp[mid + i] = array[j];
 
         System.out.print("\n\n Simple Pendulum Motion: ");

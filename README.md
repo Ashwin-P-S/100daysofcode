@@ -97,3 +97,8 @@
 - Linked List
 - Printing the Linked List in Reverse using <strong>Recursion</strong>
 - C & C++
+
+## Day 21
+- Pendulum Motion
+- Print the Array in Pendulum Motion [ Please Read the Description before Jumping into the Code! ]
+- C, C++, Java, Python

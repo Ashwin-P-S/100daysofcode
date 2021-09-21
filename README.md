@@ -102,3 +102,7 @@
 - Pendulum Motion
 - Print the Array in Pendulum Motion [ Please Read the Description before Jumping into the Code! ]
 - C, C++, Java, Python
+
+## Day 22
+- Abstract Data Types: Stack & Queue
+- Stack & Queue Operations on Linked List

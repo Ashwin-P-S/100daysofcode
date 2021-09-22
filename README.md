@@ -106,3 +106,7 @@
 ## Day 22
 - Abstract Data Types: Stack & Queue
 - Stack & Queue Operations on Linked List
+
+## Day 23
+- Middle Element of the Linked List
+- Singly Linked List

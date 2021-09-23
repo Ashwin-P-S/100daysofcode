@@ -110,3 +110,7 @@
 ## Day 23
 - Middle Element of the Linked List
 - Singly Linked List
+
+## Day 24
+- Merging two linked list at Alternate Positions
+- Singly Linked List

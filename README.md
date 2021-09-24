@@ -114,3 +114,8 @@
 ## Day 24
 - Merging two linked list at Alternate Positions
 - Singly Linked List
+
+## Day 25
+- Stack ADT [ LIFO, FILO ]
+- Array Implementation Of Stack ADT
+- Several Operations performed on Stack 

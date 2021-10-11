@@ -125,3 +125,9 @@
 - Build my Small Portfolio & submitted to ShapeAI
 - Code : [Github](https://github.com/Ashwin-P-S/react-project-app)
 - Portfolio: https://portfolio-ashwinsiva54.vercel.app/
+
+## Day 27
+- Linked List Implementation of Stack ADT
+- Principle Operations:
+    - Push
+    - Pop

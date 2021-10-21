@@ -1,8 +1,0 @@
-User_91-700531-3-India
-User_43-700531-3-Sri Lanka
-User_24-700531-3-Boston
-User_35-700531-3-London
-User_76-700531-3-Dubai
-User_80-700531-3-Qatar
-User_11-700531-3-Russia
-User_01-700531-3-Los Angeles

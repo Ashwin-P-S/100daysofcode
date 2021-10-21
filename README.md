@@ -139,3 +139,12 @@
 ## Day 29
 - Java AWT & Swing
 - Finding the IP Address
+
+## Day 30
+- Started Working On Mini Project
+- Employee Database
+
+## Day 31
+- Completed Employee Database
+- Java Awt & Swing
+- Java Packages Concept

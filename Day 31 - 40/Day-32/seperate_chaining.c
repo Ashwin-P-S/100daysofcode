@@ -22,7 +22,7 @@ void main() {
     system("cls");   //Clears Screen
 
     // Getting Values for Hash Table
-    printf("\tCollision Handling Technique by Seperate Chaining\n");
+    printf("\tCollision Handling Technique by Separate Chaining\n");
     do {
         printf("\n Enter Value: ");
         scanf("%d", &value);

@@ -148,3 +148,7 @@
 - Completed Employee Database
 - Java Awt & Swing
 - Java Packages Concept
+
+## Day 32
+- Hashing, hash table, hash function
+- Program for Seperate Chaining Hashing Technique

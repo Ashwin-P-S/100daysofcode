@@ -15,12 +15,12 @@
 
 - The Situation where a newly inserted key maps to an already occupied slot in the hash table
 - It must be handled using some Collision Handling Techniques givern below:
-    - Seperate Chaining
+    - Separate Chaining
     - Open Addressing:
         - Linear Probing
         - Quadratic Probing
         - Double Hashing
 
-## Seperate Chaining
+## Separate Chaining
 
 The idea is to make each slot of hash table point to a linked list of records that have same hash function value

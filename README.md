@@ -152,3 +152,7 @@
 ## Day 32
 - Hashing, hash table, hash function
 - Program for Seperate Chaining Hashing Technique
+
+## Day 33
+- Palindrome in Strings
+- A Java Program to Check whether the Given String is Palindrome or not
